@@ -30,7 +30,7 @@
 
 ---
 
-## ** Future Improvements**
+## Future Improvements
 - **Multi-Document Merging:** Combine insights from multiple documents.  
 - **Answer Summarization:** Summarize long responses for quicker insights.  
 - **Fine-Tuned Models:** Use specialized models for specific domains like medical or legal texts.  
