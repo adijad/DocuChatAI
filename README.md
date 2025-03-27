@@ -5,11 +5,11 @@
 ---
 
 ## Features
-- ** PDF Upload and Ingestion:** Upload multiple PDF files directly through the user interface.  
-- ** Intelligent Embeddings:** Uses **Amazon Titan via AWS Bedrock** to generate vector embeddings.  
-- ** Dynamic Model Selection:** Choose from available Bedrock models to generate the most accurate responses.  
-- ** Smart Query Answering:** Provides concise and relevant answers to user questions by leveraging vector stores and embeddings.  
-- ** Vector Store Management:** Efficiently updates vectors with new data to enhance response accuracy.  
+- PDF Upload and Ingestion:** Upload multiple PDF files directly through the user interface.  
+- Intelligent Embeddings:** Uses **Amazon Titan via AWS Bedrock** to generate vector embeddings.  
+- Dynamic Model Selection:** Choose from available Bedrock models to generate the most accurate responses.  
+- Smart Query Answering:** Provides concise and relevant answers to user questions by leveraging vector stores and embeddings.  
+- Vector Store Management:** Efficiently updates vectors with new data to enhance response accuracy.  
 
 ---
 
