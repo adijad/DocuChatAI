@@ -1,10 +1,10 @@
-# **DocuChatAI - AI-Powered Document Question-Answering System**
+# DocuChatAI - AI-Powered Document Question-Answering System
 
 **DocuChatAI** is an AI-powered document question-answering system that leverages **AWS Bedrock and LangChain** to interact with PDF files, extract knowledge, and respond to user queries intelligently. With seamless PDF ingestion, advanced vector embeddings using **Amazon Titan**, and dynamic model selection, DocuChatAI empowers users to extract insights from documents with precision and speed.
 
 ---
 
-## ** Features**
+## Features
 - ** PDF Upload and Ingestion:** Upload multiple PDF files directly through the user interface.  
 - ** Intelligent Embeddings:** Uses **Amazon Titan via AWS Bedrock** to generate vector embeddings.  
 - ** Dynamic Model Selection:** Choose from available Bedrock models to generate the most accurate responses.  
@@ -13,7 +13,7 @@
 
 ---
 
-## ** Tech Stack**
+## Tech Stack
 - **Frontend:** Streamlit for a user-friendly web interface.  
 - **Backend:** Python with Boto3 and AWS Bedrock.  
 - **Vector Store:** FAISS for fast and efficient vector similarity search.  
@@ -23,7 +23,7 @@
 
 ---
 
-## ** Example Use Cases**
+## Example Use Cases
 - **Research Assistance:** Quickly find answers from research papers.  
 - **Customer Support Documentation:** Get precise answers from support manuals.  
 - **Legal Document Analysis:** Extract relevant information from contracts and case files.  
